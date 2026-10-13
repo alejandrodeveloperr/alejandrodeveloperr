@@ -33,19 +33,19 @@ Desarrollador full stack con **más de 3 años de experiencia** en aplicaciones 
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,js,ts&theme=dark&perline=3">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Cjs%2Cts&theme=dark&perline=3">
         <img alt="PHP, JavaScript, TypeScript" src="https://skillicons.dev/icons?i=php,js,ts&theme=light&perline=3">
       </picture>
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,bootstrap&theme=dark&perline=3">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Castro%2Ctailwind%2Cbootstrap&theme=dark&perline=3">
         <img alt="React, Next.js, Astro, Tailwind CSS, Bootstrap" src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,bootstrap&theme=light&perline=3">
       </picture>
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=dark&perline=3">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs%2Cnodejs%2Cexpress&theme=dark&perline=3">
         <img alt="NestJS, Node.js, Express" src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=light&perline=3">
       </picture>
       <br><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter">
@@ -53,7 +53,7 @@ Desarrollador full stack con **más de 3 años de experiencia** en aplicaciones 
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,git,docker,postman&theme=dark&perline=2">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cgit%2Cdocker%2Cpostman&theme=dark&perline=2">
         <img alt="MySQL, Git, Docker, Postman" src="https://skillicons.dev/icons?i=mysql,git,docker,postman&theme=light&perline=2">
       </picture>
     </td>
