@@ -21,24 +21,61 @@ Desarrollador full stack con **más de 3 años de experiencia** en aplicaciones 
 
 ## 🛠️ Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,js,ts,mysql,react,nextjs,nestjs,nodejs,astro,tailwind,bootstrap&theme=dark">
-      <img alt="PHP, JavaScript, TypeScript, MySQL, React, Next.js, NestJS, Node.js, Astro, Tailwind CSS, Bootstrap" src="https://skillicons.dev/icons?i=php,js,ts,mysql,react,nextjs,nestjs,nodejs,astro,tailwind,bootstrap&theme=light">
-    </picture>
-  </a>
-</p>
+<!-- Para agregar una tecnología, suma su identificador de skillicons.dev en las dos URL de la celda (tema oscuro y claro). -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
-  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi">
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-</p>
+<table align="center">
+  <tr>
+    <th>Lenguajes</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Datos y DevOps</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,js,ts&theme=dark&perline=3">
+        <img alt="PHP, JavaScript, TypeScript" src="https://skillicons.dev/icons?i=php,js,ts&theme=light&perline=3">
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,bootstrap&theme=dark&perline=3">
+        <img alt="React, Next.js, Astro, Tailwind CSS, Bootstrap" src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,bootstrap&theme=light&perline=3">
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=dark&perline=3">
+        <img alt="NestJS, Node.js, Express" src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=light&perline=3">
+      </picture>
+      <br><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter">
+      <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi">
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,git,docker,postman&theme=dark&perline=2">
+        <img alt="MySQL, Git, Docker, Postman" src="https://skillicons.dev/icons?i=mysql,git,docker,postman&theme=light&perline=2">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4">Ecosistema React</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <!-- [CONFIRMAR] Deja solo las librerías que hayas usado en proyectos reales. -->
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit">
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query">
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router">
+      <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form">
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand">
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios">
+      <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="NativeWind">
+    </td>
+  </tr>
+</table>
 
 ## 🤖 IA en mi flujo de trabajo
 
