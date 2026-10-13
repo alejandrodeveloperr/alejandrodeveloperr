@@ -17,7 +17,7 @@
   <a href="mailto:luisalejandrm533@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
 </p>
 
-Desarrollador full stack con **más de 3 años de experiencia** en aplicaciones web y móviles. Hoy soy **Full Stack AI Developer** en **Trygger Technologies** y **Web Developer** en **Gestababy S.A.S.**, donde contribuyo al desarrollo de los sistemas y plataformas requeridas por los usuarios y clientes, Donde primero entiendo el negocio y después escribo el código.
+Desarrollador full stack con **más de 3 años de experiencia** en aplicaciones web y móviles. Hoy soy **Full Stack AI Developer** en **Trygger Technologies** y **Web Developer** en **Gestababy S.A.S.** Donde contribuyo al desarrollo de los sistemas y plataformas requeridas por los usuarios y clientes, entendiendo primero la lógica de negocio y después aportando al desarrollo de la solución.
 
 ## 🛠️ Stack
 
